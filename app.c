@@ -1,10 +1,5 @@
-#include <stdio.h>
 
-int vAvg(int *vect, int sum)
-{
-	vectSize=sizeof(vect);
-	Avg=sum/vectSize;
-}
+#include <stdio.h>
 
 int main()
 {
